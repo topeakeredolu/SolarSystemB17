@@ -8,5 +8,11 @@ public class main {
         solarsys.Planets="2";
         solarsys.Stars="10";
 
+        //**********Feature Sun**************
+        FeatureSun Sun = new FeatureSun();
+        Sun.name="panther";
+        Sun.name="black";
+        Sun.name="1223124kelvin";
+
     }
 }
